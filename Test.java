@@ -3,5 +3,6 @@ public class Test {
   // remote/origin change #1
   
   // local change #2
+  // remote/origin change #2
 
 }
