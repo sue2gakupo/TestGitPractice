@@ -15,4 +15,6 @@ public class Test {
   // remote/origin change #5
 
   // local change #6
+  // remote/origin change #6
+
 }
