@@ -5,13 +5,13 @@ public class Test {
   // local change #2
   // remote/origin change #2
 
-  //local change #3 
-  //remote/origin change #3
+  // local change #3
+  // remote/origin change #3
 
   // local change #4
-  //remote/origin change #4
+  // remote/origin change #4
 
-  //local change #5
-  
+  // local change #5
+  // remote/origin change #5
 
 }
