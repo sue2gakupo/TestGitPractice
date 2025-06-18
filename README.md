@@ -1,7 +1,7 @@
 # TestGitPractice
 demo git flow
 
-If push un expected commit to remote repo (source)
+If push unexpected commit to remote repo (sourcetree)
 <br>
 STEP1：Choose the the commit that want to recover in history
 <br>
